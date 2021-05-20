@@ -1,2 +1,3 @@
-# pyjobs
- Web to Excel scrapper for Python Jobs
+# Pyjobs
+
+Web to Excel scrapper for Python Jobs
